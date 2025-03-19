@@ -1,0 +1,20 @@
+Entitey ideas:
+  Muskox
+  Snowy owl
+  Reindeer
+  Arctic fox - Done
+  Special Villager
+  
+  
+Biome Updates:
+  Snowy plains (tunder)
+
+
+Items:
+  Musk Ox Wool
+  Ice Saw - WIP
+  Spear
+
+
+Armor:
+  Fur Boots, Leggings, ChestPlate, Hat

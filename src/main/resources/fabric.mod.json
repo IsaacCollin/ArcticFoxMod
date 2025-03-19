@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "winterupdate",
+  "version": "${version}",
+
+  "name": "Winter Update",
+  "description": "Couple of things i wanted to add to the snow biomes in minecraft that i thought it was lacking ",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.iswak.winterupdate.WinterUpdate"
+    ],
+    "client": [
+      "net.iswak.winterupdate.WinterUpdateClientMod"
+    ]
+  },
+  "mixins": [
+    "winterupdate.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
